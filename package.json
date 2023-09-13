@@ -1,0 +1,24 @@
+{
+  "name": "dealership",
+  "version": "1.0.0",
+  "description": "Backend application in node.js using the MongoDB native driver to create RESTful API's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Car Dealership"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "md5": "^2.3.0",
+    "moongose": "^1.0.0"
+  }
+}
